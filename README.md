@@ -1,6 +1,6 @@
 # Cloudflare Workers React Template
 
-[![[cloudflarebutton]]](https://deploy.workers.cloudflare.com)
+[![[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/worldrulz2013/aero-glide-modern-arcade-flappy-clone)]](https://deploy.workers.cloudflare.com)
 
 A production-ready full-stack starter template for building modern web applications with React on Cloudflare Workers. Features a Vite-powered frontend with Tailwind CSS, shadcn/ui components, API routes powered by Hono, and seamless deployment to Cloudflare.
 
@@ -99,7 +99,7 @@ Toggle dark/light mode. Custom CSS vars in `src/index.css`.
    wrangler pages deploy --project-name your-project
    ```
 
-[![[cloudflarebutton]]](https://deploy.workers.cloudflare.com)
+[![[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/worldrulz2013/aero-glide-modern-arcade-flappy-clone)]](https://deploy.workers.cloudflare.com)
 
 ## 🤝 Contributing
 
